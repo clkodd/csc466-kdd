@@ -1,1 +1,1 @@
-readme
+This repo contains 3 different files, each making use of a different facial recognition library. Each model uses the same dataset, Labeled Faces in the Wild. For our project, we evaluated the faces with each of the models and examined the accuracy rates and misclassified faces. From there, we were able to draw conclusions on each of the models' characteristics and make a statement on biases in the use of facial recognition technology. 
